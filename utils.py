@@ -118,6 +118,16 @@ class DataLoader:
                     "sheet_name": "Test Set Errors (Ch1)",
                     "start_cell": "B2",
                     "end_cell": "C12"
+                },
+                "age_data": {
+                    "sheet_name": "Ridge Regression results (Ch3)",
+                    "start_cell": "B3",
+                    "end_cell": "G13"
+                },
+                "age_data_normalized": {
+                    "sheet_name": "Ridge Regression results (Ch3)",
+                    "start_cell": "B20",
+                    "end_cell": "G30"
                 }
             }
         },
