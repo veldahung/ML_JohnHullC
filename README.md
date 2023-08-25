@@ -1,6 +1,6 @@
 # ML in Business practice
 
-## The code are rewritten version of the example code from Machine Learning in Business by John c Hull
+## The code are based on the example code from Machine Learning in Business by John c Hull
 
 ### The textbook: [Machine Learning in Business (John Hull)](http://www-2.rotman.utoronto.ca/~hull/Second%20edition%20Online%20Files/index2ndEd.html)
 
